@@ -1,0 +1,18 @@
+{
+  "name": "hello-choo",
+  "version": "1.0.0",
+  "description": "A small application built using choo.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "Eckhardt Dreyer",
+  "license": "ISC",
+  "dependencies": {
+    "choo": "^6.13.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.10.3"
+  }
+}
